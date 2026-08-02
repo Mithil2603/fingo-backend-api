@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/src/" />
   <Folder Name="/src/Bootstrap/">
-    <Project Path="src/Bootstrap/Fingo.Api/Fingo.Api.csproj" />
+    <Project Path="src/Bootstrap/Fingo.Application/Fingo.Api.csproj" />
   </Folder>
   <Folder Name="/src/Features/" />
   <Folder Name="/src/Features/Common/">
