@@ -106,65 +106,7 @@ publish/
 #########################################
 
 Generated/
-
-#########################################
-# Node (if added later)
-#########################################
-
 node_modules/
-
-#########################################
-# Flutter
-#########################################
-
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-.pub/
-build/
-
-#########################################
-# Android
-#########################################
-
-**/android/.gradle/
-**/android/local.properties
-**/android/app/debug/
-**/android/app/profile/
-**/android/app/release/
-
-#########################################
-# iOS
-#########################################
-
-**/ios/Pods/
-**/ios/.symlinks/
-**/ios/Flutter/Flutter.podspec
-**/ios/Flutter/ephemeral/
-
-#########################################
-# MacOS
-#########################################
-
-**/macos/Flutter/ephemeral/
-
-#########################################
-# Linux
-#########################################
-
-**/linux/flutter/ephemeral/
-
-#########################################
-# Windows
-#########################################
-
-**/windows/flutter/ephemeral/
-
-#########################################
-# Documentation Generated Files
-#########################################
-
 docs/generated/
 
 #########################################
